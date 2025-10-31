@@ -30,6 +30,8 @@ function init() {
 	scene.add(meshes.copy)
 	scene.add(meshes.copy2)
 
+
+	//new commment with new code
 	animate()
 }
 
